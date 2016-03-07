@@ -1,0 +1,284 @@
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\App.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\MainPage.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.xr.xml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.exe
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.pdb
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\resources.pri
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\AppxManifest.xml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.build.appxrecipe
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.g.i.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.g.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.g.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.xaml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.xaml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MadeYourDay.Windows.exe
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MadeYourDay.Windows.pdb
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\priconfig.xml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\layout.resfiles
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\resources.resfiles
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pri.resfiles
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\qualifiers.txt
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\ProjectArchitectures.txt
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.g.i.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.g.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.xaml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\offlinepage.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\music.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.g.i.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.g.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.xaml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.xbf
+C:\Users\Hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\pdf.xbf
+C:\Users\Hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pdf.g.i.cs
+C:\Users\Hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pdf.g.cs
+C:\Users\Hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pdf.xaml
+C:\Users\Hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pdf.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\App.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\MainPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\music.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\offlinepage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\pdf.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.xr.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.exe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.pdb
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\resources.pri
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\AppxManifest.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.build.appxrecipe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pdf.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pdf.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\XamlTypeInfo.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pdf.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pdf.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\XamlSaveStateFile.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MadeYourDay.Windows.exe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MadeYourDay.Windows.pdb
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\priconfig.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\priconfig.xml.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\layout.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\layout.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\resources.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\resources.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pri.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\pri.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\qualifiers.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\qualifiers.txt.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.Windows\obj\Debug\ProjectArchitectures.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\XamlTypeInfo.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\XamlSaveStateFile.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MadeYourDay.Windows.exe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MadeYourDay.Windows.pdb
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\App.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\ItemsPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MainPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\music.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\offlinepage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\SplitPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.xr.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.exe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.pdb
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\resources.pri
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\AppxManifest.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.build.appxrecipe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\priconfig.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\priconfig.xml.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\layout.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\layout.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\resources.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\resources.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\pri.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\pri.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\qualifiers.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\qualifiers.txt.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ProjectArchitectures.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\Book.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\about.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\about.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\XamlTypeInfo.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\XamlSaveStateFile.xml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\about.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\about.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MadeYourDay.Windows.exe
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\App.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\about.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\Book.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\ItemsPage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MainPage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\music.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\offlinepage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\SplitPage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.xr.xml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.exe
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.pdb
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\resources.pri
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\AppxManifest.xml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.build.appxrecipe
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MadeYourDay.Windows.pdb
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\priconfig.xml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\priconfig.xml.intermediate
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\layout.resfiles
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\layout.resfiles.intermediate
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\resources.resfiles
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\resources.resfiles.intermediate
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\pri.resfiles
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\pri.resfiles.intermediate
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\qualifiers.txt
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\qualifiers.txt.intermediate
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ProjectArchitectures.txt
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.winmd
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\App.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\about.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\Book.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\ItemsPage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MainPage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\music.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\offlinepage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\SplitPage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.xr.xml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.exe
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.pdb
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\resources.pri
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\AppxManifest.xml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.build.appxrecipe
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.winmd
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\about.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\about.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\XamlTypeInfo.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\about.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\App.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\about.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\Book.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ItemsPage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MainPage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\music.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\offlinepage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\SplitPage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\XamlSaveStateFile.xml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MadeYourDay.Windows.exe
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MadeYourDay.Windows.pdb
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\priconfig.xml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\priconfig.xml.intermediate
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\layout.resfiles
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\layout.resfiles.intermediate
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\resources.resfiles
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\resources.resfiles.intermediate
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\pri.resfiles
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\pri.resfiles.intermediate
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\qualifiers.txt
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\qualifiers.txt.intermediate
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\ProjectArchitectures.txt
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\share.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\share.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\share.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\share.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\share.xbf

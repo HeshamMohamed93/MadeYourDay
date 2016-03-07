@@ -1,0 +1,1 @@
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\MadeYourDay.Windows.csproj;neutral

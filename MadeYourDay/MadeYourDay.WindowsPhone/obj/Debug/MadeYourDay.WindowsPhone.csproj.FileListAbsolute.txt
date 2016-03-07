@@ -1,0 +1,230 @@
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\App.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.xr.xml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.exe
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.pdb
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\resources.pri
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.build.appxrecipe
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.g.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.xaml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.exe
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.pdb
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\music.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\offlinepage.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.g.i.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.g.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.g.i.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.g.cs
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.xaml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.xaml
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.xbf
+c:\users\hesham\documents\visual studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\App.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MainPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\music.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\offlinepage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.xr.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.exe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.pdb
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\resources.pri
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\AppxManifest.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.build.appxrecipe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.exe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.pdb
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\priconfig.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\layout.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\resources.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\pri.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\qualifiers.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\App.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MainPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\music.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\offlinepage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.xr.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.exe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.pdb
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\resources.pri
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\AppxManifest.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.build.appxrecipe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.g.i.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.xaml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.xbf
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.exe
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.pdb
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\priconfig.xml
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\layout.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\resources.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\pri.resfiles
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\qualifiers.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+E:\new folders of windows\Visual Studio 2013\Projects\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.csprojResolveAssemblyReference.cache
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\App.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MainPage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\music.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\offlinepage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.xr.xml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.exe
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.pdb
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\resources.pri
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\AppxManifest.xml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.build.appxrecipe
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.exe
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.pdb
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\priconfig.xml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\layout.resfiles
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\resources.resfiles
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\pri.resfiles
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\qualifiers.txt
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\about_page.g.i.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\about_page.g.cs
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\about_page.xbf
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\about_page.xaml
+E:\Microsoft App Factory\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\about_page.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\about_page.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\about_page.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\Book.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\Book.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.g.i.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\about_page.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\Book.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.xaml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\App.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\about_page.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\Book.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MainPage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\music.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\offlinepage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.exe
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MadeYourDay.WindowsPhone.pdb
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\App.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\about_page.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\Book.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MainPage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\music.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\offlinepage.xbf
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.xr.xml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.exe
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.pdb
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\resources.pri
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\AppxManifest.xml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\MadeYourDay.WindowsPhone.build.appxrecipe
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\priconfig.xml
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\layout.resfiles
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\resources.resfiles
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\pri.resfiles
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\qualifiers.txt
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.WindowsPhone\obj\Debug\ProjectArchitectures.txt

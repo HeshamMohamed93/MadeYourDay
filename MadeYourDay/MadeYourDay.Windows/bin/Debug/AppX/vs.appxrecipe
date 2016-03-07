@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HESHAM</Machine>
+    <WindowsUser>Hesham</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>95ee1039-ecf5-4a4d-a703-615eaa904607</PackageIdentityName>
+    <IntermediateOutputPath>E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>62CF51D3C715171EEE68AB14CD701924B67D858C11D6E45FD9AE5BF77FAEC0C2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>95ee1039-ecf5-4a4d-a703-615eaa904607_1.0.0.0_neutral__404ze1y8xkfrr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>95ee1039-ecf5-4a4d-a703-615eaa904607_404ze1y8xkfrr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>95ee1039-ecf5-4a4d-a703-615eaa904607</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Hesham</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-01T21:22:39.516</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.exe">
+      <PackagePath>MadeYourDay.Windows.exe</PackagePath>
+      <Modified>2015-05-01T21:22:36.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.4\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML.winmd">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML.winmd</PackagePath>
+      <Modified>2015-04-20T21:24:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.4\References\CommonConfiguration\neutral\AdDuplex.Universal.Win.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.Win.WinRT.winmd</PackagePath>
+      <Modified>2015-04-20T21:24:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.4\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-04-20T21:24:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\About background.png">
+      <PackagePath>Assets\About background.png</PackagePath>
+      <Modified>2015-05-01T05:05:55.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\aboutaaf2.png">
+      <PackagePath>Assets\aboutaaf2.png</PackagePath>
+      <Modified>2015-05-01T02:59:00.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\App Factory Final Logo Main.png">
+      <PackagePath>Assets\App Factory Final Logo Main.png</PackagePath>
+      <Modified>2015-05-01T03:04:26.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly 5-1.png</PackagePath>
+      <Modified>2015-05-01T05:05:55.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Blue.png">
+      <PackagePath>Assets\Blue.png</PackagePath>
+      <Modified>2015-05-01T05:05:55.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-04-29T22:42:16.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\FBL.png">
+      <PackagePath>Assets\FBL.png</PackagePath>
+      <Modified>2015-05-01T05:05:56.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-04-29T22:42:16.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Logo Icon 1.png">
+      <PackagePath>Assets\Logo Icon 1.png</PackagePath>
+      <Modified>2015-05-01T05:05:56.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Logo Icon.png">
+      <PackagePath>Assets\Logo Icon.png</PackagePath>
+      <Modified>2015-05-01T05:05:56.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Logo Icon2.png">
+      <PackagePath>Assets\Logo Icon2.png</PackagePath>
+      <Modified>2015-05-01T05:05:56.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:48:01.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:46:57.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:46:31.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:48:32.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-04-29T22:42:19.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:54:04.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:53:47.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:53:27.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T22:10:20.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:55:50.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:54:50.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:55:35.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:55:19.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T22:00:02.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:59:39.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:59:16.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:57:05.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:56:26.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:56:07.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\TL.png">
+      <PackagePath>Assets\TL.png</PackagePath>
+      <Modified>2015-05-01T05:05:56.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\images\1.png">
+      <PackagePath>images\1.png</PackagePath>
+      <Modified>2015-04-24T20:57:09.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Square310x310Logo.scale-100.jpg">
+      <PackagePath>Assets\Square310x310Logo.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:52:26.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Square310x310Logo.scale-140.jpg">
+      <PackagePath>Assets\Square310x310Logo.scale-140.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:52:09.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Square310x310Logo.scale-180.jpg">
+      <PackagePath>Assets\Square310x310Logo.scale-180.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:51:44.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Square310x310Logo.scale-80.jpg">
+      <PackagePath>Assets\Square310x310Logo.scale-80.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:52:45.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Square70x70Logo.scale-100.jpg">
+      <PackagePath>Assets\Square70x70Logo.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:45:20.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Square70x70Logo.scale-140.jpg">
+      <PackagePath>Assets\Square70x70Logo.scale-140.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:44:58.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Square70x70Logo.scale-180.jpg">
+      <PackagePath>Assets\Square70x70Logo.scale-180.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T20:43:04.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Square70x70Logo.scale-80.jpg">
+      <PackagePath>Assets\Square70x70Logo.scale-80.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:45:40.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Wide310x150Logo.scale-100.jpg">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:50:33.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Wide310x150Logo.scale-140.jpg">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:50:02.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Wide310x150Logo.scale-180.jpg">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:49:14.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\Wide310x150Logo.scale-80.jpg">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-30T21:51:04.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\images\2.jpg">
+      <PackagePath>images\2.jpg</PackagePath>
+      <Modified>2015-04-24T22:36:31.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\images\3.jpg">
+      <PackagePath>images\3.jpg</PackagePath>
+      <Modified>2015-04-24T22:27:20.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Assets\project.jpg">
+      <PackagePath>Assets\project.jpg</PackagePath>
+      <Modified>2015-04-24T20:57:10.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\images\readforpleasure.jpg">
+      <PackagePath>images\readforpleasure.jpg</PackagePath>
+      <Modified>2015-04-29T23:20:12.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\images\sexy-music-chick-headphones-electro-desktop-wallpaper-1920x1080.jpg">
+      <PackagePath>images\sexy-music-chick-headphones-electro-desktop-wallpaper-1920x1080.jpg</PackagePath>
+      <Modified>2015-04-24T20:57:12.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\images\th.jpg">
+      <PackagePath>images\th.jpg</PackagePath>
+      <Modified>2015-04-24T20:57:09.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-04-29T22:39:31.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-01T20:08:36.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\about.xbf">
+      <PackagePath>about.xbf</PackagePath>
+      <Modified>2015-05-01T20:08:36.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\Book.xbf">
+      <PackagePath>Book.xbf</PackagePath>
+      <Modified>2015-05-01T20:08:36.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2015-05-01T03:32:57.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-01T20:08:36.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\music.xbf">
+      <PackagePath>music.xbf</PackagePath>
+      <Modified>2015-05-01T03:32:57.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\offlinepage.xbf">
+      <PackagePath>offlinepage.xbf</PackagePath>
+      <Modified>2015-05-01T20:08:36.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\share.xbf">
+      <PackagePath>share.xbf</PackagePath>
+      <Modified>2015-05-01T20:08:36.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2015-05-01T20:08:36.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\MadeYourDay.Windows.xr.xml">
+      <PackagePath>MadeYourDay.Windows.xr.xml</PackagePath>
+      <Modified>2015-05-01T18:26:21.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft App Factory\Material\MadeYourDay - Copy\MadeYourDay\MadeYourDay.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-01T21:22:36.945</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

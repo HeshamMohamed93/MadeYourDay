@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="MadeYourDay.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MadeYourDay"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    
+    mc:Ignorable="d"
+    xmlns:adduplex="using:AdDuplex.Universal.Controls.Win.XAML">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid>
+        <Grid.Background>
+                <ImageBrush ImageSource="/images/1.png"></ImageBrush>
+        </Grid.Background>
+            <TextBlock Text="Made Your Day" FontSize="70" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="27,106,567,0"  Foreground="DeepSkyBlue" RenderTransformOrigin="0.292,1.383" Width="772"></TextBlock>
+            <Button Content="Start" HorizontalAlignment="Left" Margin="1060,670,0,0" VerticalAlignment="Top" Width="234" Height="58"  FontSize="30" Background="DeepSkyBlue" Click="Button_Click" />
+            <adduplex:AdControl AdUnitId="150367" AppKey="3799b1dc-6ddc-4fd5-9c56-8965d538bb08" Size="500x130" Margin="423,567,443,71"/>
+            <Button Content="Share" HorizontalAlignment="Left" Margin="63,670,0,0" VerticalAlignment="Top" Width="234" Height="58"  FontSize="30" Background="DeepSkyBlue" Click="Button_Click_1"/>
+        </Grid>
+
+    </Grid>
+</Page>

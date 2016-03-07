@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="MadeYourDay.offlinepage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MadeYourDay"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/images/1.png"></ImageBrush>
+        </Grid.Background>
+            <Button x:ConnectionId='1' Content="Books" HorizontalAlignment="Left" Margin="61,119,0,0" VerticalAlignment="Top" Width="208"  Background="DeepSkyBlue" FontSize="30"                       />
+           
+            <Button x:ConnectionId='2' Content="Music" HorizontalAlignment="Left" Margin="286,119,0,0" VerticalAlignment="Top" Width="208" Background="DeepSkyBlue"  FontSize="30"                     />
+        </Grid>
+
+    </Grid>
+</Page>
+
